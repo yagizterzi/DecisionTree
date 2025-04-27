@@ -96,7 +96,9 @@ print(f"Random Forest Accuracy: {accuracy_rf:.4f}")
 ## Requirements
 - NumPy
 - Optional: scikit-learn (for dataset loading and evaluation)
-
+```bash
+pip install -r requirements.txt
+```
 ## Notes
 - This implementation is designed for educational purposes
 - The code prioritizes readability and transparency over optimization
